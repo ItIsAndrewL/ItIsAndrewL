@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ItIsAndrewL
-- 👀 I’m interested in Software Development!
-- 🌱 I’m currently learning Python!
-- 💞️ I’m looking to collaborate on anything fun, as long as you're down to explain some things!
+- 👋 Hi, I’m Andrew Lockard
+- 🏫 Currently Studying Computer Science at the University of North Carolina at Chapel Hill
+- 👀 I’m interested in working as a Software Developer or Game Developer
 
 <!---
 ItIsAndrewL/ItIsAndrewL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
