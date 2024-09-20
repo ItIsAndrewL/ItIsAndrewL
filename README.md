@@ -4,15 +4,15 @@
 </p>
 
 ## 👨🏻 Who am I?
-🏫 I am a current *Junior* studying at the *University of North Carolina at Chapel Hill* majoring in *Computer Science* and *Applied Mathematics*.
+🏫 I am a current *Senior* studying at the *University of North Carolina at Chapel Hill* majoring in *Computer Science* and *Applied Mathematics*.
 
 🚶‍♂️ I am passionate about bringing people together through technology. I enjoy working on teams with brilliant people, designing specifically with a persona in mind, and creating technologies that help to solve real world problems.
 
-💻 I love to create full stack, focusing on angular, java, and python applications.
+💻 I love to create full stack, focusing on angular, java, react, and python applications.
 
 👀 I’m interested and actively perusing a career as a *Software Engineer* or *Software Developer*
 
-⛰️ In my free time I enjoy being outdoors, working out, going hiking/camping, and learning guitar.
+⛰️ In my free time I enjoy being outdoors, working out, going hiking/camping, and spending time with others!
 
 ## ⌨️ Programming Languages/Frameworks/Tools
 
