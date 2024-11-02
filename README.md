@@ -10,7 +10,7 @@
 
 💻 I love to create full stack, focusing on angular, java, react, and python applications. I am also interested in exploring cryptography and it's uses in backend applications as well as AI such as LLMs models.
 
-👀 I’m interested and actively perusing a career as a *Software Engineer* or *Software Developer*
+<img src="https://github.com/user-attachments/assets/33230033-0f98-41bd-8a55-ffe71ee3ec8c" alt="drawing" width="15"/> I’m excited to begin my career after graduation working as a Software Engineering Consultant at CapTech in Reston, DC!
 
 ⛰️ In my free time I enjoy being outdoors, working out, going hiking/camping, and spending time with others!
 
